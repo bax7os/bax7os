@@ -3,7 +3,7 @@
 <h4 align="center">Espero que goste do meu perfil e que ele contribua de alguma forma para te fazer aprender mais também!</h4>
 
 ##
-<p align="center">![snake gif](https://github.com/bax7os/bax7os/blob/output/github-contribution-grid-snake-dark.svg)</p>
+![snake gif](https://github.com/bax7os/bax7os/blob/output/github-contribution-grid-snake-dark.svg)
 
 ##
 ### 📊 Estatísticas no GitHub: 
