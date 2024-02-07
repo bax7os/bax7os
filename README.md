@@ -26,4 +26,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-bax7os/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-bax7os/" height="30" width="40" /></a>
 </p>
 
-![snake gif](https://github.com/bax7os/bax7os/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/bax7os/bax7os/blob/output/github-contribution-grid-snake-dark.svg)
