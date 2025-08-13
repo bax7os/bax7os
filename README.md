@@ -1,30 +1,33 @@
-<h1 align="center">Olá! Pode me chamar de Ana Bastos</h1>
-<h4 align="center">Sou estudante do quinto período de Ciência da Computação na Universidade Federal do Mato Grosso do Sul. Criei gosto pela área da tecnologia durante meu ensino médio técnico, no Instituto Federal do Mato Grosso do Sul, onde me formei como técnica em informática e adquiri conhecimentos fundamentais para começar na área. Esse contato me fez escolher a computação como minha carreira e, por isso, me dedico frequentemente a aprender coisas novas e me aprofundar cada vez mais nessa área. </h4>
-<h4 align="center">Espero que goste do meu perfil e que ele contribua de alguma forma para te fazer aprender mais também!</h4>
+<div align="center">
+<h1>Ana Bastos</h1>
+<p><img src="./assets/graduation-cap-svgrepo-com.svg" width="22px" align="center">
+Computer Science Student @ UFMS | FullStack Developer 
+</p>
+</div>
+
+<p align="center"> I'm a Computer Science sdutent with a background as an IT technician, which is where my passion for solving problems with code began. I'm constantly exploring new technologies to build efficient and user-friendly applications. My goal is to use mt skills to create meaningful and innovative solutions. </p>
+<p align="center">I hope you enjoy my profile and that it inspires you to learn something new!</p>
 
 ##
+
 ![snake gif](https://github.com/bax7os/bax7os/blob/output/github-contribution-grid-snake-dark.svg)
 
 ##
-### 📊 Estatísticas no GitHub: 
+
+## 📊 GitHub Activity
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bax7os&theme=gotham&show_icons=true)
 
-##
-### 📚 Linguagens mais utilizadas: 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bax7os&layout=compact&theme=gotham)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bax7os&layout=compact&theme=gotham)
 
 ##
-### ✏️ Estou aprendendo atualmente: 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,fastapi,docker,react,flask,git,vue,arch&perline=3)](https://skillicons.dev)
+## ⚒️ Skills
 
+[![My Skills](https://skillicons.dev/icons?i=figma,fastapi,docker,react,flask,git,vue,arch,python,html,css,javascript&perline=4)](https://skillicons.dev)
 
+## 📩 Contacts
 
-
-<h3 align="left">Conete-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bax7os/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bax7os/" height="30" width="40" /></a>
 </p>
-
-
