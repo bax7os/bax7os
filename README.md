@@ -5,7 +5,7 @@ Computer Science Student @ UFMS | FullStack Developer
 </p>
 </div>
 
-<p align="center"> I'm a Computer Science sdutent with a background as an IT technician, which is where my passion for solving problems with code began. I'm constantly exploring new technologies to build efficient and user-friendly applications. My goal is to use mt skills to create meaningful and innovative solutions. </p>
+<p align="center"> I'm a Computer Science student with a background as an IT technician, which is where my passion for solving problems with code began. I'm constantly exploring new technologies to build efficient and user-friendly applications. My goal is to use mt skills to create meaningful and innovative solutions. </p>
 <p align="center">I hope you enjoy my profile and that it inspires you to learn something new!</p>
 
 ##
